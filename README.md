@@ -1,16 +1,13 @@
-### Hi there 👋
+![harshzalavadiya github stats](https://github-readme-stats.vercel.app/api?username=harshzalavadiya&show_icons=true&hide_border=true)
 
-<!--
-**harshzalavadiya/harshzalavadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/docparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="28px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="28px" />
+</div>
