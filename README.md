@@ -1,4 +1,4 @@
-![harshzalavadiya github stats](https://github-readme-stats.vercel.app/api?username=harshzalavadiya&show_icons=true&hide_border=true)
+![harshzalavadiya github stats](https://github-readme-stats.vercel.app/api?username=harshzalavadiya&show_icons=true)
 
 <div>
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="28px" />
