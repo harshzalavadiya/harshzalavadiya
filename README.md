@@ -6,7 +6,7 @@
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="40px" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="40px" />
   <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="40px" />
-  <img src="https://cultofthepartyparrot.com/parrots/docparrot.gif" width="40px" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/docparrot.gif" width="40px" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="40px" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="40px" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="40px" />
